@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Donkwame
-- 👀 I’m interested in Flutter, Sprint boot, 
+- 👀 I’m interested in Flutter, Spring boot, 
 - 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me princeturkson50@gmail.com
